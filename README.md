@@ -1,4 +1,4 @@
-### You're viewing Hrishikesh Kumar's GitHub Profile 👋
+### You're viewing **Hrishikesh Kumar's** GitHub Profile 👋
 
 <!--
 **AlphaHKumar/AlphaHKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
